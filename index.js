@@ -1,1 +1,1 @@
-console.log("na ativa")
+console.log("bora")
